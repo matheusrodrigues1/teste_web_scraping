@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+selenium
+pypdf
+py7zr
+pytest
